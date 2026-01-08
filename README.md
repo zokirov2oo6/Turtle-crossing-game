@@ -25,7 +25,7 @@ Get hit? GAME OVER 💥
 🚀 How to Run the Game
 
 Clone the repository:
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/zokirov2oo6.git
 cd Turtle-crossing-game
 cd YOUR_REPO_NAME
 
